@@ -31,3 +31,7 @@ const url = "https://devraj.com/dev%20raikwar"
 
 console.log(url.replace('%20','-'));
 console.log(url.includes('dev'));
+/**
+ * This all are prototype methods which we use to manupulate strings
+ * Stringinterpullation
+ */
